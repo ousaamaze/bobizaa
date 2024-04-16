@@ -16,7 +16,7 @@ ${result.lyrics}
 
     } catch (error) {
         console.error('Error:', error);
-        conn.reply(m.chat, `وقعت مشكلة راسل نورالدين \ninstagram.com/noureddine_ouafy`, m);
+        conn.reply(m.chat, `owner reven https://www.instagram.com/alyaa__zenin?igsh=OGQ5ZDc2ODk2ZA==`, m);
     }
 }
 
